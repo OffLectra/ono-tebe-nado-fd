@@ -8,6 +8,7 @@ body {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+  background-color: white;
 }
 
 h1,
@@ -35,4 +36,10 @@ img {
 
 button {
   font: inherit;
+}
+
+header,
+footer {
+  font-size: 18px;
+  font-weight: 400;
 }
